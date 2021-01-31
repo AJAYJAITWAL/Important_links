@@ -1,0 +1,12 @@
+# How to create API in Rails 
+https://medium.com/binar-academy/rails-api-jwt-authentication-a04503ea3248
+
+# Online APIs for free
+https://jsonplaceholder.typicode.com/
+
+# How to singin and signup and deploy your project in heroku
+https://jsonplaceholder.typicode.com/
+and change heroku stack
+https://devcenter.heroku.com/articles/heroku-18-stack
+
+ 
