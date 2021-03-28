@@ -5,8 +5,13 @@ https://medium.com/binar-academy/rails-api-jwt-authentication-a04503ea3248
 https://jsonplaceholder.typicode.com/
 
 # How to singin and signup and deploy your project in heroku
-https://jsonplaceholder.typicode.com/
-and change heroku stack
+https://www.google.com/url?q=https://devcenter.heroku.com/articles/getting-started-with-rails6%23local-setup&sa=D&source=hangouts&ust=1617026728895000&usg=AFQjCNH5d_Mbc-isiQAUaciwAJAncmo6RQand change heroku stack
 https://devcenter.heroku.com/articles/heroku-18-stack
 
- 
+ # How to install mongodb
+ https://www.google.com/url?q=https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/&sa=D&source=hangouts&ust=1617026819104000&usg=AFQjCNFFPiUFnv-iE798Upov6356ZWrr9Q
+ - echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/4.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.4.list
+
+# api
+https://www.google.com/url?q=https://rubyinrails.com/2018/11/10/rails-building-json-api-resopnses-with-jbuilder/&sa=D&source=hangouts&ust=1617026728895000&usg=AFQjCNGIX4yCAV13dUxQqWx_tqHchbjUgA
+
