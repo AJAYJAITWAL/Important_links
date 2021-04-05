@@ -15,3 +15,820 @@ https://devcenter.heroku.com/articles/heroku-18-stack
 # api
 https://www.google.com/url?q=https://rubyinrails.com/2018/11/10/rails-building-json-api-resopnses-with-jbuilder/&sa=D&source=hangouts&ust=1617026728895000&usg=AFQjCNGIX4yCAV13dUxQqWx_tqHchbjUgA
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+https://ruby-doc.org/core-2.7.2/Hash.html#class-Hash-label-Hash+Data+Syntax
+https://ruby-doc.org/core-2.7.0/Array.html
+https://www.rubyguides.com/2018/01/ruby-string-methods/
+https://www.freecodecamp.org/news/ruby-string-methods-explained-length-empty-and-other-built-in-methods/
+https://launchschool.com/books/ruby/read/hashes
+https://www.w3resource.com/ruby-exercises/array/index.php
+https://www.rubyguides.com/2018/02/ru
+https://medium.com/@ericschwartz7/rails-mailer-tutorial-82700f6737d9
+https://stackoverflow.com/questions/13755249/send-user-email-after-creating-a-post-with-action-mailer/13755360
+https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/
+https://guides.railsgirls.com/devise
+https://www.youtube.com/watch?v=sVJRkTxqlSQ
+
+https://www.adrianprieto.com/how-to-setup-devise-and-omniauth-for-your-rails-application/
+by-symbols/
+https://www.reddit.com/r/rails/comments/9xh3c4/webpackermanifestmissingentryerror_despite_having/
+https://github.com/rails/webpacker/issues/1523
+
+
+curl --compressed -o- -L https://yarnpkg.com/install.
+https://stackoverflow.com/questions/13755249/send-user-email-after-creating-a-post-with-action-mailer/13755360
+https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/
+https://guides.railsgirls.com/devise
+https://www.youtube.com/watch?v=sVJRkTxqlSQ
+https://www.adrianprieto.com/how-to-setup-devise-and-omniauth-for-your-rails-application/
+https://www.adrianprieto.com/how-to-setup-devise-and-omniauth-for-your-rails-application/
+sh | bash
+rails webpacker:install
+
+
+https://www.sitepoint.com/brush-up-your-knowledge-of-rails-associations/
+https://melvinchng.github.io/rails/SearchFeature.html#41-create-a-page-for-search
+https://medium.com/@ericschwartz7/rails-mailer-tutorial-82700f6737d9
+https://stackoverflow.com/questions/13755249/send-user-email-after-creating-a-post-with-action-mailer/13755360
+https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/
+https://guides.railsgirls.com/devise
+https://www.youtube.com/watch?v=sVJRkTxqlSQ
+https://developers.facebook.com/apps/
+https://www.adrianprieto.com/how-to-setup-devise-and-omniauth-for-your-rails-application/
+https://medium.com/@cindyk09/omniauth-facebook-with-devise-gem-698a3121f19f
+https://launchschool.com/blog/the-detailed-guide-on-how-ajax-works-with-ruby-on-rails
+https://www.youtube.com/watch?v=lyPA6kJqATo&t=130s
+https://github.com/hisea/devise-bootstrap-views
+https://dev.to/somnathpaul/add-bootstrap-4-to-your-ruby-on-rails-6-application-ole
+https://medium.com/@jelaniwoods/how-to-actually-use-ajax-in-rails-83e667ea7953
+https://yarnpkg.com/cli/cache/clean
+https://melvinchng.github.io/rails/BootstrapFramework.html#13-containers
+https://github.com/bootstrap-ruby/bootstrap_form
+https://getbootstrap.com/docs/4.0/components/navbar/
+https://codeburst.io/how-to-build-a-good-api-using-rubyonrails-ef7eadfa3078
+http://apionrails.icalialabs.com/book/chapter_two
+https://www.youtube.com/watch?v=B-8dJLSB3hU
+https://github.com/RolifyCommunity/rolify
+https://www.howtoforge.com/tutorial/ruby-on-rails-ror-with-postgresql-on-ubuntu-16-04/
+https://blog.joshsoftware.com/2012/10/23/dynamic-roles-and-permissions-using-cancan/
+https://youtu.be/PmkBBRq6jQ0
+https://stackoverflow.com/questions/8264221/building-a-blog-in-rails-how-do-i-limit-text-and-put-a-read-more-link-to-sh
+https://www.w3schools.com/colors/colors_picker.asp
+http://www.shattereddesign.xyz/posts/adding-pagination-to-a-rails-blog-with-kaminari
+https://github.com/delef/will_paginate-bootstrap4
+https://github.com/bootstrap-ruby/will_paginate-bootstrap
+https://melvinchng.github.io/rails/SearchFeature.html#47-testing-and-verification
+https://github.com/shivani0852/My_blog.git
+https://melvinchng.github.io/rails/SearchFeature.html#chapter-4-search-feature
+https://www.youtube.com/watch?v=Cj1FhPy9sz4
+https://medium.com/swlh/add-dynamic-like-dislike-buttons-to-your-rails-6-application-ccce8a234c43
+https://medium.com/full-taxx/how-to-add-likes-to-posts-in-rails-e81430101bc2
+https://youtu.be/D5hIc_rnpaY
+https://www.youtube.com/watch?v=kUoN3Uv9ZTQ&list=PL01nNIgQ4uxNkDZNMON-TrzDVNIk3cOz4&index=33
+https://www.digitalocean.com/community/tutorials/how-to-set-up-ruby-on-rails-with-postgres
+https://web-crunch.com/posts/ruby-on-rails-ecommerce-music-shop
+https://youtu.be/rPmlA_T_J84
+https://edgeapi.rubyonrails.org/classes/ActiveRecord/ConnectionAdapters/SchemaStatements.html#method-i-add_column
+https://dev.to/neshaz/multiple-ways-to-change-database-column-in-rails-34m0
+https://stevepolito.design/blog/create-a-nested-form-in-rails-from-scratch/
+https://youtu.be/K45V1JOrP8o
+https://medium.com/@kennethteh90/how-to-build-a-basic-e-commerce-store-909f2893be71
+https://github.com/ryanb/nested_form
+https://www.pluralsight.com/guides/ruby-on-rails-nested-attributes
+https://stackoverflow.com/questions/45439776/how-to-permit-a-new-parameter-in-rails-devise-when-implementing-role-based-aut
+https://stackoverflow.com/questions/57630480/rails-devise-create-user-and-update-associated-record
+https://stackoverflow.com/questions/48013700/rails-5-devise-nested-attributes-unpermitted-parameters/48014151#48014151
+https://github.com/howardmann/Tutorials/blob/master/Rails_Shopping_Cart.md
+https://www.youtube.com/results?search_query=ecommerce+website+in+rails
+https://www.youtube.com/watch?v=M8WPKT6KZjE
+https://www.youtube.com/watch?v=zxgLLISxlPc&list=PL7XjUXy678QtYIuZKbEToWrk3E1T0NZ95
+https://www.nopio.com/blog/authentication-authorization-rails/
+https://github.com/diegonetto/Learning-Ruby-on-Rails
+https://github.com/justalever/flanger
+https://stackoverflow.com/questions/10900525/adding-products-to-a-cart
+https://github.com/omkz/rails-shopping-cart
+https://stackoverflow.com/questions/8873376/conditional-callback-in-rails-model/8873401
+https://stackoverflow.com/questions/35104257/rails-updating-quantities-in-shopping-cart
+https://github.com/howardmann/Tutorials/blob/master/Rails_Shopping_Cart.md
+https://stackoverflow.com/questions/55444914/rails-calculate-total-sales/55444954
+https://www.rubydoc.info/gems/rmagick/4.1.2
+https://medium.com/rubyinside/asynchronous-elasticsearch-bulk-reindexing-with-rails-searchkick-and-sidekiq-26f2f9aa8513
+https://medium.com/carwow-product-engineering/managing-your-elasticsearch-indexes-in-rails-159a7543f8b
+https://www.pluralsight.com/guides/elasticsearch-with-ruby-on-rails
+https://www.rubyguides.com/2019/04/ruby-redis/
+https://www.youtube.com/watch?v=X6OnNLtJq_Q&list=PL-x20ZubA8v7ur7YWfYeGuyk91JKMDUj_
+https://opensource.com/article/18/4/ruby-rails-redis
+https://haml2erb.org/
+https://youtu.be/6KqbPJtA5O8
+https://stackoverflow.com/questions/4728469/rails-number-to-indian-currency-format-conversion-helper
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+https://youtube.com/playlist?list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C
+https://medium.com/@billy.sf.cheng/a-rails-6-application-part-1-api-1ee5ccf7ed01
+https://rubyinrails.com/2018/11/10/rails-building-json-api-resopnses-with-jbuilder/
+https://www.pluralsight.com/guides/token-based-authentication-with-ruby-on-rails-5-api
+https://jsonplaceholder.typicode.com/
+https://medium.com/better-programming/build-a-rails-api-with-jwt-61fb8a52d833
+https://medium.com/@oliver.seq/creating-a-rest-api-with-rails-2a07f548e5dc
+https://www.sitepoint.com/authenticate-your-rails-api-with-jwt-from-scratch/
+https://medium.com/binar-academy/rails-api-jwt-authentication-a04503ea3248
+https://rubyinrails.com/2018/11/10/rails-building-json-api-resopnses-with-jbuilder/
+https://github.com/rails/jbuilder
+https://devcenter.heroku.com/articles/getting-started-with-rails6#local-setup
+https://devcenter.heroku.com/articles/heroku-18-stack
+https://code.tutsplus.com/articles/crafting-apis-with-rails--cms-27695
+https://medium.com/binar-academy/rails-api-jwt-authentication-a04503ea3248
+
+
+
+
+how to get json data and show in html with the help of api
+<html>
+<head>
+<title>json</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <div class="table_responsive">
+        <h1>Json data</h1>
+        <br>
+    </div>
+    <table class="table table_borderd table_striped" id="user_table">
+        <tr>
+            <th>UserId</th>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Text</th>
+        </tr>
+    </table>
+    </div>
+</body>
+</html>
+
+<script>
+$(document).ready(function(){
+    $.getJSON("https://jsonplaceholder.typicode.com/posts", function(data){
+        var user_data = "";
+        $.each(data,function(key,value){
+            user_data += '<tr>';
+            user_data += '<td>'+value.userId+'<td>';
+            user_data += '<td>'+value.id+'<td>';
+            user_data += '<td>'+value.title+'<td>';
+            user_data += '<td>'+value.body+'<td>';
+            user_data += '<tr>';
+        });
+        $('#user_table').append(user_data);
+    });
+});
+</script>
+       
+.
+.
+.
+.
+.
+.
+.
+.
+.
+# how to perform CRUD operation in html with the help of ajax
+index.html
+.
+.
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Html CRUD 
+    </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<h1>HTML CRUD Operation</h1>
+<body>
+    <table>
+        <tr>
+            <td>
+                <form onsubmit="event.preventDefault();onFormSubmit();" autocomplete="off">
+                    <div>
+                        <label>Id</label><label class="validation-error hide" id="idValidationError">This field is required.</label>
+                        <input type="number" name="id" id="id">
+                    </div>
+                    <div>
+                        <label>Title</label>
+                        <input type="text" name="title" id="title">
+                    </div>
+                    <div>
+                        <label>Text</label>
+                        <input type="text" name="text" id="text">
+                    </div>
+                    <div  class="form-action-buttons">
+                        <input type="submit" value="Submit">
+                    </div>
+                </form>
+            </td>
+            <td>
+                <table class="list" id="posts">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Title</th>
+                            <th>Text</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <script src="script.js"></script>
+</body>
+
+</html>
+.
+.
+.
+script.js
+.
+.
+var selectedRow = null
+
+function onFormSubmit() {
+    if (validate()) {
+        var formData = readFormData();
+        if (selectedRow == null)
+            insertNewRecord(formData);
+        else
+            updateRecord(formData);
+        resetForm();
+    }
+}
+
+function readFormData() {
+    var formData = {};
+    formData["id"] = document.getElementById("id").value;
+    formData["title"] = document.getElementById("title").value;
+    formData["text"] = document.getElementById("text").value;
+    return formData;
+}
+
+function insertNewRecord(data) {
+    var table = document.getElementById("posts").getElementsByTagName('tbody')[0];
+    var newRow = table.insertRow(table.length);
+    cell1 = newRow.insertCell(0);
+    cell1.innerHTML = data.id;
+    cell2 = newRow.insertCell(1);
+    cell2.innerHTML = data.title;
+    cell3 = newRow.insertCell(2);
+    cell3.innerHTML = data.text;
+    cell4 = newRow.insertCell(3);
+    cell4.innerHTML = `<a onClick="onEdit(this)">Edit</a>
+                       <a onClick="onDelete(this)">Delete</a>`;
+}
+
+function resetForm() {
+    document.getElementById("id").value = "";
+    document.getElementById("title").value = "";
+    document.getElementById("text").value = "";
+    selectedRow = null;
+}
+
+function onEdit(td) {
+    debugger
+    selectedRow = td.parentElement.parentElement;
+    document.getElementById("id").value = selectedRow.cells[0].innerHTML;
+    document.getElementById("title").value = selectedRow.cells[1].innerHTML;
+    document.getElementById("text").value = selectedRow.cells[2].innerHTML;
+}
+
+function updateRecord(formData) {
+    selectedRow.cells[0].innerHTML = formData.id;
+    selectedRow.cells[1].innerHTML = formData.title;
+    selectedRow.cells[2].innerHTML = formData.text;
+}
+
+function onDelete(td) {
+    if (confirm('Are you sure to delete this record ?')) {
+        row = td.parentElement.parentElement;
+        document.getElementById("posts").deleteRow(row.rowIndex);
+        resetForm();
+    }
+}
+
+function validate() {
+    isValid = true;
+    if (document.getElementById("id").value == "") {
+        isValid = false;
+        document.getElementById("idValidationError").classList.remove("hide");
+    } else {
+        isValid = true;
+        if (!document.getElementById("idValidationError").classList.contains("hide"))
+            document.getElementById("idValidationError").classList.add("hide");
+    }
+    return isValid;
+}
+.
+.
+.
+.
+.
+.
+style.css
+.
+.
+body>table {
+    width: 90%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table.list {
+    width: 102%;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 7px;
+}
+
+tr:nth-child(even),
+table.list thead>tr {
+    background-color: #dddddd;
+}
+
+input[type=text],
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color: rgb(96, 221, 230);
+    color: #000;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form div.form-action-buttons {
+    text-align: right;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: underline;
+    color: rgb(96, 221, 230);
+    margin-right: 4px;
+}
+
+label.validation-error {
+    color: red;
+    margin-left: 5px;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+
+
+
+https://www.bestpeers.com/daily_status_updates
+https://github.com/heartcombo/devise
+https://dev.to/somnathpaul/add-bootstrap-4-to-your-ruby-on-rails-6-application-ole
+https://guides.railsgirls.com/devise
+https://melvinchng.github.io/rails/BootstrapFramework.html#14-header-and-footer
+https://github.com/bootstrap-ruby/bootstrap_form
+https://git-scm.com/docs/gittutorial
+https://coderwall.com/p/bvkgtw/easy-way-to-create-gemset-per-project-using-rvm
+http://gentle-temple-44651.herokuapp.com/
+https://www.techiedelight.com/find-difference-between-two-arrays-in-javascript/
+https://www.yogihosting.com/example-jquery-ajax-call-api/
+https://github.com/activerecord-hackery/ransack
+https://relishapp.com/
+https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+https://youtu.be/ics3XxGH6Jo
+https://youtu.be/PXJnCFbcuTs
+https://youtu.be/MG9itGX1hD0
+https://levelup.gitconnected.com/all-possible-ways-of-making-an-api-call-in-plain-javascript-c0dee3c11b8b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+<head>
+    <title>API</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <h1>This is Posts</h1>
+    <form id="form" method="post">
+        <label for="text">Title:</label><br>
+        <input type="text" id="title" name="title"><br>
+        <label for="text">Text:</label><br>
+        <input type="text" id="text" name="text"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <div id="results">
+    </div>
+</body>
+<script>
+    var form = document.getElementById('form')
+    form.addEventListener('submit',function(e){
+        e.preventDefault()
+
+        var name = document.getElementById('title').value
+        var body = document.getElementById('text').value
+
+
+        fetch("https://jsonplaceholder.typicode.com/posts",{
+            method:'POST',
+            body:JSON.stringify({
+                title:name,
+                body:body
+            }),
+            headers:{
+                "Content-Type":"application/json; charset=UTF-8"
+            }
+        })
+        .then(function(response){
+            return response.json()
+        })
+        .then(function(data){
+            console.log(data)
+            var results = document.getElementById('results')
+
+            results.innerHTML = `<p>The title of the todo is ${data.title}</p><p>The title of the todo is ${data.body}</p> `
+        })
+
+    })
+</script>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+
+<head>
+   <title>API</title>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+   <h1>Articles</h1>
+   <form id="form" method="post">
+       <label for="text">Title:</label><br>
+       <input type="text" id="title" name="title"><br>
+       <label for="text">Description:</label><br>
+       <input type="text" id="description" name="description"><br><br>
+       <input type="submit" value="Submit">
+   </form>
+
+   <div id="results">
+   </div>
+</body>
+<script>
+   var form = document.getElementById('form')
+   form.addEventListener('submit',function(e){
+       e.preventDefault()
+       debugger
+
+       var name = document.getElementById('title').value
+       var body = document.getElementById('description').value
+
+
+       fetch("http://localhost:3000/articles",{
+           method:'POST',
+           body:JSON.stringify({
+               title:name,
+               body:body
+           }),
+           headers:{
+               "Content-Type":"application/json; charset=UTF-8"
+           }
+       })
+       .then(function(response){
+           return response.json()
+       })
+       .then(function(data){
+           console.log(data)
+           var results = document.getElementById('results')
+
+           results.innerHTML = `<p>The title of the todo is ${data.title}</p><p>The title of the todo is ${data.body}</p> `
+       })
+
+   })
+</script>
+</html>
+class ArticlesController < ApplicationController
+ def index
+  @articles = Article.all
+  render json: { articles: @articles.as_json}
+ end
+
+ def show
+  @article = Article.find(params[:id])
+  render json: {article: @article.as_json}
+ end
+
+ def create
+  @article = Article.new(article_params)
+  if @article.save
+  head 200
+  else
+    head 500
+   end
+ end
+
+ def update
+ end
+
+ def destroy
+ end
+
+ private
+
+  def article_params
+  params.require(:article).permit(:title, :description)
+  end
+end
+Rails.application.routes.draw do
+ get 'articles' => 'articles#index'
+ get 'articles/:id' => 'articles#show'
+ post 'articles' => 'articles#create'
+ patch 'articles/:id' =>  'articles#update'
+ delete 'articles/:id' => 'articles#destroy'
+ # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
+ root 'articles#index'
+end
+
+
+
+
+
+ye lo get method wali api with ajax
+<!-- post api with html page-->
+
+<html>
+<head>
+    <title>API</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <button onclick="fetch()">show</button><br>
+    <ul class="messages">
+        
+    </ul>
+
+</body>
+<script>
+    function fetch(){
+        $.ajax({
+            url: "https://jsonplaceholder.typicode.com/posts",
+            type:"GET",
+            dataType:"JSON",
+            data:JSON.stringify({ }),
+            success:function(data){
+                $('.messages').append("<li>"+JSON.stringify(data)+"</li>")
+            }
+
+        })
+    }
+        
+</script>
+</html>
+enjoy 🙂
+
+https://github.com/nkroker/client-server/blob/master/index.html
+
+$('form').on('submit', function(event){  
+       event.preventDefault();
+       title = $('#title').val()
+       description = $('#desc').val()
+       data =  {title: title, description: description };
+       $(this).trigger("reset");
+       url = "http://localhost:3000/articles"
+       $.ajax({
+         type: 'POST',
+         url: url,
+         data: data,
+         dataType: 'JSON',
+         error: function (xhr, status) {
+           alert("error");
+         },
+       });
+     })
+Mne bna liya khud se
+https://www.tutorialsteacher.com/jquery/jquery-get-method
+
+
+
+
+
+$(document).ready(function(){
+       debugger
+       $.getJSON("http://localhost:3000/articles", function(data){
+         var article_data = "";
+         $.each(data, function(key,value){
+           value.forEach(function(article){
+             article_data += '<tr>'
+             article_data += '<td>'+article.title+'</td>'
+             article_data += '<td>'+article.description+'</td>'
+             article_data += '<tr>'
+             debugger
+           })
+         })
+         $('#article_table').append(article_data)
+       });
+     });
+
+
+
+
+<html>
+ <head>
+   <title>API</title>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+ </head>
+ <body>
+   <div class="container">
+     <div class="table_responsive">
+       <h1>Article data</h1>
+       <br>
+     </div>
+     <table class="table table_borderd table_striped" id="article_table">
+       <tr>
+         <th>Index</th>
+         <th>Title</th>
+         <th>Description</th>
+       </tr>
+     </table>
+   </div>
+   <form>
+     <div class="form-group">
+       <label for="title"><b>Title:</b></label>
+       <input type="text" class="form-control" id="title">
+     </div>
+     <div class="form-group">
+       <label for="desc"><b>Description:</b></label>
+       <input type="text" class="form-control" id="desc">
+     </div>
+     <button type="submit" class="btn btn-default submit">Submit Article</button>
+   </form>
+
+   <script>
+     $(document).ready(function(){
+       $.getJSON("http://localhost:3000/articles", function(data){
+         $.each(data, function(key,value){
+           value.forEach(function(article, index){
+             debugger
+             $("#article_table").append(`
+                 <tr>
+                   <th scope="row">${index + 1}</th>
+                   <td>${article.title}</td>
+                   <td>${article.description}</td>
+                   <td><button id="btnDelete" class="btn btn-danger" data = index>Delete</button></td>
+                 </tr>
+             `);
+           })
+           $('#btnDelete').click(function(data){
+             article_index = $(this).data('index')
+             debugger
+             // $.ajax
+             //   type: 'DELETE',
+             //   url: "http://localhost:3000/articles/#{article_index}",
+             //   data: { id: article_index }
+
+             alert ('Are you sure you want to delete');
+           });
+         })
+       });
+     });
+
+     // $(document).on("click", "#btnDelete", function(){
+     //   debugger
+     // });
+
+     $('form').on('submit', function(event){  
+       event.preventDefault();
+       title = $('#title').val()
+       description = $('#desc').val()
+       data =  {title: title, description: description };
+       $(this).trigger("reset");
+       url = "http://localhost:3000/articles"
+       $.ajax({
+         type: 'POST',
+         url: url,
+         data: data,
+         dataType: 'JSON',
+         error: function (xhr, status) {
+           alert("error");
+         },
+       });
+     })
+   </script>
+ </body>
+</html>
+class ArticlesController < ApplicationController
+ skip_before_action :verify_authenticity_token
+
+ def index
+   @articles = Article.all
+   render json: { articles: @articles.as_json}
+ end
+
+ def show
+   @article = Article.find(params[:id])
+   render json: {article: @article.as_json}
+ end
+
+ def create
+   @article = Article.new(article_params)
+   if @article.save
+     render json: @article, status: :created
+   else
+     render json: @article.errors, status: :unprocessable_entity
+   end
+ end
+
+ def update
+ end
+
+ def destroy
+   @article = Article.find(params[:id])
+   @article.destroy
+ end
+
+ private
+
+   def article_params
+     params.permit(:title, :description)
+   end
+end
+Rails.application.config.middleware.insert_before 0, Rack::Cors do
+ allow do
+   origins "*"
+
+   resource '*',
+     headers: :any,
+     methods: [:get, :post, :put, :patch, :delete, :options, :head]
+ end
+end
+
+
+
+
+https://examples.javacodegeeks.com/software-development/mongodb/mongodb-batchsize-example/
+https://www.yogihosting.com/example-jquery-ajax-call-api/
+https://www.c-sharpcorner.com/article/populating-dropown-with-ajax-call/
+https://blog.appsignal.com/2018/06/19/activerecords-counter-cache.html
+
+
+
+
+
