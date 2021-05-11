@@ -1,3 +1,6 @@
+# How to send mail for without using backend
+https://postmail.invotes.com/
+
 # How to create API in Rails 
 https://medium.com/binar-academy/rails-api-jwt-authentication-a04503ea3248
 
